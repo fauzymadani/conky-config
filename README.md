@@ -79,3 +79,6 @@ you have to install this font widely for your system, you can change the font.
 ## icon
 for the icon, read conky documentation.
 
+## screenshots
+![Screenshot from 2024-07-15 11-57-44](https://github.com/user-attachments/assets/7cc73403-aab0-406d-8f1c-adb66caf2cb6)
+
